@@ -1,0 +1,6 @@
+Day 1 : 
+- intalasi  node.js 
+- Buat reactjs
+- create repo github
+
+Day 2 : 
